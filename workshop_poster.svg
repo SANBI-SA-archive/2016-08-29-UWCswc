@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 1052.3622 1488.189"
    id="svg4333"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="1314.6995"
-     inkscape:cy="720.49918"
+     inkscape:cy="681.29445"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,7 +52,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,435.82677)">
     <g
        style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
        id="g3924"
@@ -70,7 +71,7 @@
     </g>
     <g
        id="g6453"
-       transform="translate(10.101525,-38.385797)">
+       transform="matrix(1.4435963,0,0,1.4435963,30.617861,-505.08715)">
       <g
          style="fill:#2b3990;fill-opacity:1;fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
          transform="matrix(0.03543307,0,0,0.03543307,-281.62035,57.839963)"
@@ -266,7 +267,7 @@
        xml:space="preserve"
        id="flowRoot4487"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-14.142136,-4.0406102)"><flowRegion
+       transform="matrix(1.4435963,0,0,1.4435963,-4.3801991,-455.50656)"><flowRegion
          id="flowRegion4489"><rect
            id="rect4491"
            width="701.01013"
@@ -275,7 +276,7 @@
            y="218.07649" /></flowRegion><flowPara
          id="flowPara4495"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Garuda;-inkscape-font-specification:Garuda">you are invited to join a workshop on:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:Garuda;-inkscape-font-specification:Garuda;text-anchor:middle;text-align:center"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;text-anchor:middle"
          id="flowPara6493">Software Carpentry</flowPara><flowPara
          id="flowPara4499"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda">making scientific computing accessible to non-programmers</flowPara><flowPara
@@ -288,34 +289,34 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara6316">Collaborative authoring using git</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="329.09451"
-       y="690.23828"
+       style="font-style:normal;font-weight:normal;font-size:57.74385452px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="491.11499"
+       y="546.75189"
        id="text4501"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="329.09451"
-         y="690.23828"
+         x="491.11499"
+         y="546.75189"
          id="tspan4507"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;text-anchor:middle">Venue: SANBI, UWC</tspan><tspan
          sodipodi:role="line"
-         x="329.09451"
-         y="740.23828"
+         x="491.11499"
+         y="618.9317"
          id="tspan4513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;text-anchor:middle">Date: 29-30 August</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;text-anchor:middle">Date: 30-31 August</tspan><tspan
          sodipodi:role="line"
-         x="329.09451"
-         y="790.23828"
+         x="491.11499"
+         y="691.11151"
          id="tspan4515"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;text-anchor:middle" /><tspan
          sodipodi:role="line"
-         x="329.09451"
-         y="840.23828"
+         x="491.11499"
+         y="763.29132"
          id="tspan4517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Garuda;-inkscape-font-specification:Garuda;text-align:center;text-anchor:middle" /></text>
     <g
        id="g6505"
-       transform="translate(-42.426407,-105.05586)">
+       transform="matrix(1.4435963,0,0,1.4435963,-45.211268,-601.3318)">
       <g
          transform="matrix(5.300801,0,0,5.300801,281.44313,850.78089)"
          id="g5975">
@@ -2653,8 +2654,8 @@
       </g>
     </g>
     <image
-       y="25.400011"
-       x="547.8656"
+       y="-413.0062"
+       x="806.93213"
        id="image6450"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAACrCAYAAAAZ6GwZAAAQwklEQVR4nOydQVLsONLH3URf4L0j
 FEeA9beCIxTrXnwBJ5igIqYjZiZiFjBzAip6MWs4Aqx6DUeAIwxHeOO/K8UTQrJlSZaUcv4iHN2v
@@ -2735,13 +2736,13 @@ Y263rF75OeY3mj3O2PeCrCst34YgQt0KtC8k0qGflz4gXeQNg93hGvk+TB8G538BAAD//9fG0Cqi
 XjDSAAAAAElFTkSuQmCC
 "
        preserveAspectRatio="none"
-       height="145.74619"
-       width="145.74619" />
+       height="210.39865"
+       width="210.39865" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6495"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-106.06601,107.07617)"><flowRegion
+       transform="matrix(1.4435963,0,0,1.4435963,-137.08117,-295.09879)"><flowRegion
          id="flowRegion6497"><rect
            id="rect6499"
            width="616.19305"
