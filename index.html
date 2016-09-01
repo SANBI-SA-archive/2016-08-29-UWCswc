@@ -6,14 +6,14 @@ address: "New Life Science Building, Robert Sobukwe Rd, Bellville, 7530, South A
 country: "ZA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-33.9319901,18.6254294"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "Aug 29-30, 2016"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Aug 30-31, 2016"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00am - 4:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2016-08-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2016-08-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2016-08-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2016-08-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Peter van Heusden, Warren Jacobus, Michael Crusoe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: "swc@sanbi.ac.za"      # contact email address for host, lead instructor, or whoever else is handling questions
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad: "http://pad.software-carpentry.org/uwc_swc_16"            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -162,8 +162,8 @@ Data Carpentry, and Mozilla Science Labs. For more information about the program
   information.
 </p>
 
-<p><strong>Registration Fee:</strong> A non-refundable registration fee of R&nbsp;500 is payable. The fee will cover 
-teatimes on both days and support future Software Carpentry activities at UWC. Cash payments can be done at the UWC 
+<p><strong>Registration Fee:</strong> A non-refundable registration fee of R&nbsp;100 is payable (<strong>Note:</strong> this fee has been reduced 
+thanks to sponsorship that we have received). The fee will cover teatimes on both days and support future Software Carpentry activities at UWC. Cash payments can be done at the UWC 
 Cashiers (to reference number BGC0342992277, forward proof of payment to <a href="mailto:{{page.contact}}">{{page.contact}}</a>)
 or contact the workshop organisers for Electronic Payment instructions.</p>
 
@@ -207,7 +207,8 @@ or contact the workshop organisers for Electronic Payment instructions.</p>
       <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00</td>  <td>Building programs with Python, Part 2</td> </tr>
       <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>15:45</td>  <td>Input on Mozilla Science Study Groups</td> </tr>
+      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
     </table>
   </div>
 </div>
@@ -274,11 +275,12 @@ or contact the workshop organisers for Electronic Payment instructions.</p>
       <li>Using libraries</li>
       <li>Working with arrays</li>
       <li>Reading and plotting data</li>
+      <li>Working with tabular data using Pandas</li>
       <li>Creating and using functions</li>
       <li>Loops and conditionals</li>
       <li>Defensive programming</li>
-      <li>Using Python from the command line</li>
-      <li><a href="{{site.swc_github_io}}/python-novice-inflammation/reference/">Reference...</a></li>
+      <!--li>Using Python from the command line</li>-->
+      <li><a href="{{site.swc_github_io}}/python-novice-gapminder/reference/">Reference...</a></li>
     </ul>
   </div>
   <!--
@@ -324,6 +326,8 @@ or contact the workshop organisers for Electronic Payment instructions.</p>
       <li><a href="{{site.swc_github_io}}/git-novice/reference/">Reference...</a></li>
     </ul>
   </div>
+  
+  <!--
   <div class="col-md-6">
     <h3 id="syllabus-sql">Managing Data with SQL</h3>
     <ul>
@@ -338,6 +342,7 @@ or contact the workshop organisers for Electronic Payment instructions.</p>
       <li><a href="{{site.swc_github_io}}/sql-novice-survey/reference/">Reference...</a></li>
     </ul>
   </div>
+  -->
 </div>
 
 <hr/>
@@ -533,7 +538,7 @@ or contact the workshop organisers for Electronic Payment instructions.</p>
       <p>
         nano is a basic editor and the default that instructors use in the workshop.
         To install it,
-        download the <a href="{{site.swc_installer}}">Software Carpentry Windows installer</a>
+        download the <a href="https://github.com/swcarpentry/windows-installer/releases/tag/v0.3">Software Carpentry Windows installer</a>
         and double click on the file to run it.
         <strong>This installer requires an active internet connection.</strong>
       </p>
